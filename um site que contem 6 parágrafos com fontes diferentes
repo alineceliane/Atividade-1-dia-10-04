@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>beija eu</title>
+    <link rel="stylesheet" href="seisparagrafos.css">
+</head>
+<body>
+    <div id="main">
+        <p class="p1"> 
+            Preste bem atenção <br>
+            Coisas do coração<br>
+            São como essa ladeira<br>
+            Pra conseguir subir<br>
+            Tem que ser leve, sim<br>
+            O amor te estende a mão<br>
+        </p>
+    
+        <p class="p2">
+            Molha eu, seca eu<br>
+            Deixa que eu seja o céu<br>
+            E receba o que seja seu<br>
+            Anoiteça e amanheça eu<br>
+    
+        </p>
+    
+        <p class="p3"> 
+            Beija eu, beija eu<br>
+            Beija eu, me beija<br>
+            Deixa o que seja ser<br>
+    
+        </p>
+    
+        <p class="p4"> 
+            Então beba e receba<br>
+            Meu corpo no seu<br>
+            Corpo eu, no meu corpo<br>
+            Deixa, eu me deixo<br>
+            Anoiteça e amanheça<br>
+        </p>
+    
+        <p class="p5"> 
+            Seja eu, seja eu<br>
+            Deixa que eu seja eu<br>
+            E aceita o que seja seu<br>
+            Então deita e aceita eu<br>
+        </p>
+    
+        <p class="p6">
+            Molha eu, seca eu<br>
+            Deixa que eu seja o céu<br>
+            E receba o que seja seu<br>
+            Anoiteça e amanheça eu<br>
+        </p>
+    </div>
+    
+</body>
+</html>
